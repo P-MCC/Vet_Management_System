@@ -2,7 +2,7 @@
 
 Simple veterinary management system build using JavaFX
 
-### Overview
+## Overview
 
 When we start the program, the user selection screen welcomes us.In this screen we have two options.
 First one is viewing the database as Veterinarian and the second, option is to view the database as Customer.
@@ -23,7 +23,7 @@ After logging in to the veterinary interface we can view our database with all t
 Veterinarian can also manipulate the date in our database by using insert, update and delete functionality.
 ![](assets/img_3.png)
 
-### How to run?
+## How to run?
 
 Before running the program.
 
@@ -47,11 +47,11 @@ via Maven, in the indexing phase those libraries will be downloaded automaticall
    ``mvn clean install package javafx:run``
    ![](assets/way-3.png)
 
-### Database Design
+## Database Design
 
 ![](assets/db.png)
 
-### IMPORTANT NOTE on INSERT/UPDATE/DELETE OPERATIONS:
+## IMPORTANT NOTE on INSERT/UPDATE/DELETE OPERATIONS:
 
 If you want an efficient database app, you should make an "insert" operation considering the following order.
 
