@@ -8,7 +8,7 @@ Before running the program.
 First of all you have to modify the Connect.java class which is placed in src/main/java/JDBC/Connect.java
 in this class database connection properties are given. Change those properties to fit your database.(Like your localhost password and port number(THIS IS IMPORTANT!)
 
-Implement the database by using VMSDBSQL.SQL file it is placed in s`rc/main/vmsDB/VMSDBSQL.SQL`
+Implement the database by using VMSDBSQL.SQL file it is placed in `src/main/vmsDB/VMSDBSQL.SQL`
 or you can simply add our updated veterinary_management_system(final).sql file (from Phase2) to XAMPP , MySQL Workbench etc..
 
 You don’t need to add vm options or external libraries. JavaFX and MYSQL Connector/J is implemented 
